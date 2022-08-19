@@ -1,0 +1,19 @@
+{
+    "name": "ruangdeveloper/empty",
+    "description": "Just empty package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RuangDeveloper\\Empty\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruang Developer",
+            "email": "mail@ruangdeveloper.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
